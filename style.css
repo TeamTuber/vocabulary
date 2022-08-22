@@ -1,0 +1,44 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(233, 233, 233);
+}
+
+.EV{
+    font-family: Georgia;
+    color: rgb(76, 82, 76);
+}
+
+.quote{
+    color: tomato;
+}
+
+
+.summary {
+    font-size: 20px;
+    color: rgb(76, 82, 76);
+    cursor: pointer;
+}
+
+.word{
+    font-size: 18px;
+}
+
+summary:hover{
+    color: tomato;
+}
+
+span{
+    font-weight: bold;
+    color: rgb(76, 82, 76);
+}
+
+.link{
+    color: tomato;
+}
+.link:hover{
+    color: white;
+}
+
+hr{
+    width: 50%;
+}
